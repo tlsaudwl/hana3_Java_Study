@@ -6,6 +6,6 @@ public class ex01 {
         //        : 프로그램 시작시 고정된 메모지 주소에 할당됨
         //        : 프로그램 시작점이나 중요한 함수/변수에 사용함
         System.out.println("Hello Java!");
-        // println : 콘솔에 문자열을 출력하는 출력용 함수 print line
+        // println : 콘솔에 문자열을 출력하는 출력용 함수 (print line)
     }
 }
