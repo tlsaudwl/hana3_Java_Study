@@ -24,6 +24,7 @@ public class ex12 {
         // A *= B : A = A * B
         // A /= B : A = A / B
 
+        // 연습문제
         int a=10;
         String result = (a > 0) ? "정상" : "비정상";
         System.out.println(result);
