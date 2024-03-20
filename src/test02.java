@@ -100,7 +100,7 @@ public class test02 {
 
 
                 for (Book book : list) {
-                    System.out.println(book);
+                    System.out.println(book.getName());
                 }
             }
 
